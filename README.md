@@ -1,4 +1,6 @@
-# api documentation for  [retext-keywords (v4.0.0)](https://github.com/wooorm/retext-keywords#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-retext-keywords.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-retext-keywords) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-retext-keywords.svg)](https://travis-ci.org/npmdoc/node-npmdoc-retext-keywords)
+# npmdoc-retext-keywords
+
+api documentation for  [retext-keywords (v4.0.0)](https://github.com/wooorm/retext-keywords#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-retext-keywords.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-retext-keywords) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-retext-keywords.svg)](https://travis-ci.org/npmdoc/node-npmdoc-retext-keywords)
 #### Keyword extraction with Retext
 
 [![NPM](https://nodei.co/npm/retext-keywords.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/retext-keywords)
